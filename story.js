@@ -5,13 +5,13 @@ window.onload = start;
 // Replace with your own AirTable API key.
 // Normally, you will want to keep this private.
 const key = 'key4rQFkM7isLsMzO';
-const app_id = 'appPjkQ63DtWFpurD';
+const app_id = 'appwtjfXNDyKcQ40F';
 const base_url = `https://api.airtable.com/v0/${app_id}`;
 
 // Change this to match ID in your AirTable.
-const STORY_INTRO_ID = 'receB2rb4S7WV8vb1';
-const CHARACTER_SELECT_ID = 'rec7QZsjtwJGIUdaw';
-const OPENING_SCENE_ID = 'recipy4F4Ofsca3Cm';
+const STORY_INTRO_ID = 'recVL1Q2OScKsz5K3';
+const CHARACTER_SELECT_ID = 'recO0YRadwOuflNJy';
+const OPENING_SCENE_ID = 'recZzxtwOOkgJBDbo';
 
 // Start story and make initial DB requests for opening scene, saved games,
 // and available characters.
