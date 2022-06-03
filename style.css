@@ -1,5 +1,5 @@
 body {
-  background: black url("https://i.ytimg.com/vi/TUYx0wf8-h0/maxresdefault.jpg") center 25px no-repeat;
+background: skyblue url("") center 25px no-repeat;;
 }
 
 p, #choices, #button1 {
@@ -12,7 +12,7 @@ p, #choices, #button1 {
 #border{
   border: 2px solid black;
   border-radius: 25px;
-  background-color: darkblue;
+  background-color: floralwhite;
   padding: 10px;
   width: 60%;
   margin: 100px 20%;
