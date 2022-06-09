@@ -1,3 +1,9 @@
+span {
+  font-size: 15pt;
+  color: skyblue;
+  font-weight: bold;
+}
+
 #feature{
   position: absolute;
   left: 10px;
